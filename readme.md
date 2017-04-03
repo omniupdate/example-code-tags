@@ -8,7 +8,7 @@ Tags in OU Campus are used to sort and filter pages, files, and assets to make t
 
 Use these files to play around with the Tag Management XSL API.
 
-1. **Upload the files** to OU Campus. T
+1. **Upload the files** to OU Campus.
  - The XSL files should be placed in `/_resources/xsl/_tag-management/`. These files do not need to be published, but it is recommended to [save a version](http://support.omniupdate.com/oucampus10/pages/review/versions.html) each time changes are made. 
  - *The `examples-for-application.xsl` file does not need to be uploaded into the site; simply open the file and copy/paste code snippets from the file into other XSL files, such as the standard `common.xsl`.*
  - Upload `tagdemo.pcf` to any directory in your site. It never needs to be published, so it can basically go wherever you would like to put it.
