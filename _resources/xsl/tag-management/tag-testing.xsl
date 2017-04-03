@@ -20,7 +20,7 @@ Last updated: 7/26/16
 
 	<!-- If you don't want to import common.xsl (or whatever your default XSL file is named), make sure to import ou-variables.xsl and tag-management.xsl. Otherwise, the file will break. -->
 
-	<xsl:import href="common.xsl"/>
+	<xsl:import href="../common.xsl"/>
     <xsl:import href="tag-management.xsl"/>
 
 	<xsl:template match="/document">
