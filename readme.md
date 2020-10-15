@@ -23,4 +23,4 @@ Use these files to play around with the Tag Management XSL API.
  - Tags are not site specific and are shared across an account. 
  - Tags can be managed under **Setup > Tags**, but can be created directly from individual pages as well. 
  - You can create groupings of tags called collections, or merge tags together to consolidate them. 
- - Tag Access for directories can be utilized to control which tags can be applied to any pages or files within the directory. More information on Tag Access Settings can be found on the [OU Campus Support Site](https://support.omniupdate.com/learn-ou-campus/administration/access/tag-access.html).
+ - Tag Access for directories can be utilized to control which tags can be applied to any pages or files within the directory. More information about the XSL API for Tag Management can be found on the [OU Campus API Reference Site](https://developers.omniupdate.com/).
